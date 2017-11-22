@@ -1,21 +1,4 @@
-
-This repository
-Pull requests
-Issues
-Marketplace
-Explore
- @nanneii
- Watch 0
-  Star 0
-  Fork 0 nanneii/nanne
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-Branch: master Find file Copy pathnanne/line-tcr.py14
-de96cec  16 days ago
-@wasborn wasborn 2
-1 contributor
-RawBlameHistory    
-2036 lines (1947 sloc)  92 KB
-# -*- coding: utf-8 -*-
+# - * - coding: utf-8 - * -
 
 import LINETCR
 from LINETCR.lib.curve.ttypes import *
